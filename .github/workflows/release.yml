@@ -73,7 +73,7 @@ jobs:
         with:
           repo_token: "${{ secrets.GITHUB_TOKEN }}"
           prerelease: true
-          automatic_release_tag: "v1.1.5 (debug1)"
+          automatic_release_tag: "v1.1.5_debug1"
           title: "teste de proporção 20:9"
           files: |
             /home/runner/*.apk
