@@ -1,5 +1,8 @@
 name: Release
 on: workflow_dispatch
+permissions:
+  contents: write
+  packages: write
 jobs:
   Android:
     runs-on: ubuntu-latest
