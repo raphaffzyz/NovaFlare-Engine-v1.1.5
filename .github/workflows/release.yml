@@ -66,8 +66,7 @@ jobs:
            path: /home/runner
 
       - name: Move EXTERNAL File
-        run: mv "/home/runner/NovaFlare Engine-release.apk" "/home/runner/android-EXTERNAL.apk"
-        
+        run: mv "/home/runner/NovaFlare Engine-release.apk" "/home/runner/android-EXTERNAL.apk"        
           repo_token: "${{ secrets.GITHUB_TOKEN }}"
           prerelease: true
           automatic_release_tag: "v1.1.5 (debug1)"
