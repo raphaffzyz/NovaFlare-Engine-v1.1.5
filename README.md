@@ -1,5 +1,4 @@
-# Friday Night Funkin' - NovaFlare Engine
-
+# Friday Night Funkin' - NovaFlare Engine (v1.1.5)
 ## Customization:
 
 if you wish to disable things like *Lua Scripts* or *Video Cutscenes*, you can read over to `Project.xml`
@@ -37,5 +36,3 @@ same goes for *Lua Scripts*, comment out or delete the line with `LUA_ALLOWED`, 
 * Nebula the Zorua - some Lua reworks
 * superpowers04 - LUA JIT Fork
 _____________________________________
-
-To be updated
